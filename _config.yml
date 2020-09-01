@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"w
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Home"
 description              : &description ""
