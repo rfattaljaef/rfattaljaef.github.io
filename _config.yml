@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Roberto N. Fattal Jaef"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Home"
 description              : &description ""
