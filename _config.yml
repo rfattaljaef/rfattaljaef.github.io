@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Roberto-Fattal-Jaef"
+  name             : "Roberto Fattal Jaef"
   avatar           : "profile.png"
   bio              : "Economist and World Bank's Development Research Group"
   location         : "Location"
   #employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=dOvBUJEAAAAJ&hl=en"
-  email            : " rfattaljaef at gmail dot com
+  email            : " rfattaljaef at gmail dot com "
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
