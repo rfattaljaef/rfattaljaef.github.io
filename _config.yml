@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Home"w
 title_separator          : "-"
 name                     : &name "Home"
 description              : &description ""
@@ -83,7 +83,7 @@ author:
   name             : "Roberto Fattal Jaef"
   avatar           : "profile.png"
   bio              : "Economist and World Bank's Development Research Group"
-  location         : "Washington, District of Columbia"
+  location         : "Washington, D.C."
   #employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=dOvBUJEAAAAJ&hl=en"
