@@ -44,7 +44,7 @@ ROBERTO N. FATTAL JAEF is an economist in the Macroeconomics and Growth team of 
 * The Economic Ripple Effects of Covid-19, with Francisco Buera, Hugo Hopenhayn, Andy Neumeyer, and Yongseok Shin, June 2020
  [pdf](https://www.dropbox.com/s/mx0qifbgiwi6650/Ripples.pdf?dl=0)
 
-* The Missing Middle in a Broad Cross-Section of Indian Establishments, with Francisco Buera, Reiki Laski, and Nicholas Tracther, in progress
+* The Missing Middle in a Broad Cross-Section of Indian Establishments, with Francisco Buera, Reiko Laski, and Nicholas Tracther, in progress
 
 * Constrained-Efficiency and the Welfare Effects of Misallocation with Hugo Hopenhayn, November 2019
  [pdf](https://www.dropbox.com/s/6yrutojvg68x26z/Constrained_Efficiency_Nov2019.pdf?dl=0)
