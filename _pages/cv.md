@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[pdf version](https://drive.google.com/file/d/1x3aD6lwyBtFmjwT8rx3L3dDGzy1PaXxW/view)
+
 Professional Positions
 =======================
 * Economist, Development Research Group, Macroeconomics and Growth, World Bank. April 2013-present*
