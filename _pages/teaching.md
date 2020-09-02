@@ -17,5 +17,5 @@ Classes I have been TA for in graduate school
 #{% include base_path %}
 
 #{% for post in site.teaching reversed %}
-#  {% include archive-single.html %}
+#{% include archive-single.html %}
 #{% endfor %}
