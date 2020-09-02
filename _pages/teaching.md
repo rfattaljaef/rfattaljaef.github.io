@@ -1,4 +1,14 @@
 
+---
+layout: archive
+title: ""
+permalink: /teaching/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+
 Classes I have been TA for in graduate school
 ================================================
 * 1st year PhD. Macroeconomics Class, Prof. Gary Hansen, Fall 2008
