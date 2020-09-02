@@ -2,11 +2,13 @@
 ---
 layout: archive
 title: ""
-permalink: /teaching/
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+
+{% include base_path %}
 
 
 Classes I have been TA for in graduate school
