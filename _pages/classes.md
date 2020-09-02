@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-[pdf version](https://drive.google.com/file/d/1x3aD6lwyBtFmjwT8rx3L3dDGzy1PaXxW/view)
+Classes I have been TA for
+==========================
+
+* 1st year PhD Macroeconomics, Prof. Gary Hansen
+* 1st year PhD Macroeconomics, Prof. Andrew Atkeson
+
 
   
