@@ -3,8 +3,11 @@ main:
   #- title: "Research"
   #  url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+  #  url: /teaching/    
+
+  - title: "Classes"
+    url: /classes/
 
   - title: "CV"
     url: /cv/
