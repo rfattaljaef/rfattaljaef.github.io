@@ -1,25 +1,25 @@
 ---
 layout: archive
-title: "Teaching"
+title: ""
+permalink: /cv/
 author_profile: true
-permalink:/teaching/
-
+redirect_from:
+  - /resume
 ---
 
 {% include base_path %}
 
+[pdf version](https://drive.google.com/file/d/1x3aD6lwyBtFmjwT8rx3L3dDGzy1PaXxW/view)
 
-Classes I have been TA for in graduate school
-================================================
-* 1st year PhD. Macroeconomics Class, Prof. Gary Hansen, Fall 2008
-* 1st year PhD. Macroeconomics Class, Prof. Andrew Atkeson, Winter 2009
+Professional Positions
+=======================
+* Economist, Development Research Group, Macroeconomics and Growth, World Bank. April 2013-present*
+* Economist (EP) , International Monetary Fund. September 2011-April 2013
 
-
-
-
-
-#{% include base_path %}
-
-#{% for post in site.teaching reversed %}
-#{% include archive-single.html %}
-#{% endfor %}
+Education
+===========
+* Ph.D. in Economics, UCLA, May 2011
+* M.A. in Economics, UCLA, December 2007
+* M.A. in Economics, Universidad Torcuato Di Tella (Argentina), December 2005
+* B.A. (licenciate) in Economics, Universidad Nacional de Rosario (Argentina), December 2003
+  
