@@ -1,9 +1,9 @@
-
 ---
 layout: archive
 title: "Teaching"
-permalink: /teaching/
 author_profile: true
+permalink:/teaching/
+
 ---
 
 {% include base_path %}
