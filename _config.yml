@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Roberto Fattal Jaef"
+  name             : "Roberto N. Fattal Jaef"
   avatar           : "photo_linkedin.png"
   bio              : "Economist at World Bank's Development Research Group"
   location         : "Washington, DC"
@@ -175,9 +175,9 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+#  teaching:
+#    output: true
+#    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -210,14 +210,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  #- scope:
+  #    path: ""
+  #    type: teaching
+   # values:
+   #   layout: single
+   #   author_profile: true
+   #   share: true
+   #   comments: true
   # _publications
   - scope:
       path: ""
