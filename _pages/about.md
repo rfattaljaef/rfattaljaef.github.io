@@ -34,7 +34,7 @@ ROBERTO N. FATTAL JAEF is an economist in the Macroeconomics and Growth team of 
 # Under Review
 
 1. Entry Barriers, Idiosyncratic Distortions, and the Firm-Size Distribution, June 2020 _conditionally accepted at AEJ:Macroeconomics_ 
-[pdf](https://www.dropbox.com/s/m9bl786d4gwtocx/draft_july_2020.pdf?dl=0)
+[pdf](https://rfattaljaef.github.io/files/draft_AEJmacro_R2.pdf)
 
 2. The Dynamics of Development: Innovation and Reallocation, with Francisco Buera, _revise and resubmit AEJ: Macroeconomics_
 [pdf](https://www.dropbox.com/s/50g7e2ilco1sf98/draft_January_2020.pdf?dl=0)
