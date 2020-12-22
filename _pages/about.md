@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-ROBERTO N. FATTAL JAEF is an economist in the Macroeconomics and Growth team of the World Bank’s Research Department. His research interest cover various areas of macroeconomics, with a special emphasis on economic growth. Current and recent research topics include: 1) understanding the role of market distortions for firm level behavior, entrepreneurship, and long run macroeconomic outcomes; 2) investigating the micro and macro patterns of transition growth paths, 3) studying the role of credit for business cycle. Prior to joining the Bank, he worked at the International Monetary Fund’s Research department (2011-2013). He holds a Ph.D. in Economics from UCLA.
+ROBERTO N. FATTAL JAEF is a Senior Economist in the Macroeconomics and Growth team of the World Bank’s Research Department. His research interest cover various areas of macroeconomics, with a special emphasis on economic growth. Current and recent research topics include: 1) understanding the role of market distortions for firm level behavior, entrepreneurship, and long run macroeconomic outcomes; 2) investigating the micro and macro patterns of transition growth paths, 3) studying the role of credit for business cycle. Prior to joining the Bank, he worked at the International Monetary Fund’s Research department (2011-2013). He holds a Ph.D. in Economics from UCLA.
 
  **Research Interests**  Macroeconomics, International Macroeconomics, Economic Development.
  
