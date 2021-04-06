@@ -42,8 +42,8 @@ ROBERTO N. FATTAL JAEF is a Senior Economist in the Macroeconomics and Growth te
 
 # Working Papers
 
-* The Economic Ripple Effects of Covid-19, with Francisco Buera, Hugo Hopenhayn, Andy Neumeyer, and Yongseok Shin, June 2020
- [pdf](https://www.dropbox.com/s/mx0qifbgiwi6650/Ripples.pdf?dl=0)
+* The Economic Ripple Effects of Covid-19, with Francisco Buera, Hugo Hopenhayn, Andy Neumeyer, and Yongseok Shin, April 2021
+ [pdf](https://rfattaljaef.github.io/Files/Ripples_April_2021.pdf)
 
 * The Missing Middle in a Broad Cross-Section of Indian Establishments, with Francisco Buera, Reiko Laski, and Nicholas Tracther, in progress
 
