@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[pdf version](https://drive.google.com/file/d/1x3aD6lwyBtFmjwT8rx3L3dDGzy1PaXxW/view)
+[pdf version](https://rfattaljaef.github.io/files/Roberto_Fattal_Jaef_CV_April2021.pdf)
 
 Professional Positions
 =======================
