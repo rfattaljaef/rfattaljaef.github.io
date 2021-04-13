@@ -13,7 +13,8 @@ redirect_from:
 
 Professional Positions
 =======================
-* Economist, Development Research Group, Macroeconomics and Growth, World Bank. April 2013-present*
+* Senior Economist, Development Research Group, Macroeconomics and Growth, World Bank. December 2021-
+* Economist, Development Research Group, Macroeconomics and Growth, World Bank. April 2013-December 2021
 * Economist (EP) , International Monetary Fund. September 2011-April 2013
 
 Education
@@ -33,16 +34,16 @@ Fellowships and Awards
 
 Publications
 =============
-1. Size-Dependent Tax Enforcement and Compliance: Global Evidence and Aggregate Implications, with Pierre Bachas and Anders Jensen, _Journal of Development    Economics, vol. 140, September 2019_
-2. Taxing the Good? Distortions, Productivity, and Misallocation in Sub-Saharan Africa, with Xavier Cirera and Hibret Maemir, _World Bank Economic Review, August 2019_
-3. Entry and Exit, Multi-Product Firms, and Allocative Distortions, _American Economic Journals: Macroeconomics Vol 10 No. 2, April 2018_
-4. The Anatomy of a Credit Crunch: from Capital to Labor Markets, with Francisco Buera and Yongseok Shin, _Review of Economic Dynamics 18 (2015) 101-117_
-5. Entry, Trade Costs, and International Business Cycles” (2014), with Jose Ignacio Lopez, _Journal of International Economics 94 (2014) 224-238_
+1. Entry Barriers, Idiosyncratic Distortions, and the Firm-Size Distribution _forthcoming accepted American Economic Journals: Macroeconomics_
+2. Size-Dependent Tax Enforcement and Compliance: Global Evidence and Aggregate Implications, with Pierre Bachas and Anders Jensen, _Journal of Development    Economics, vol. 140, September 2019_
+3. Taxing the Good? Distortions, Productivity, and Misallocation in Sub-Saharan Africa, with Xavier Cirera and Hibret Maemir, _World Bank Economic Review, August 2019_
+4. Entry and Exit, Multi-Product Firms, and Allocative Distortions, _American Economic Journals: Macroeconomics Vol 10 No. 2, April 2018_
+5. The Anatomy of a Credit Crunch: from Capital to Labor Markets, with Francisco Buera and Yongseok Shin, _Review of Economic Dynamics 18 (2015) 101-117_
+6. Entry, Trade Costs, and International Business Cycles” (2014), with Jose Ignacio Lopez, _Journal of International Economics 94 (2014) 224-238_
 
 Research Under Review
 ======================
-1. Entry Barriers, Idiosyncratic Distortions, and the Firm-Size Distribution _conditionally accepted American Economic Journals: Macroeconomics_
-2. The Dynamics of Development: Entrepreneurship and Innovation, with Francisco Buera (2018), _Revise and Resubmit American Economic Journals: Macroeconomics_
+1. The Dynamics of Development: Entrepreneurship and Innovation, with Francisco Buera (2018), _Revise and Resubmit American Economic Journals: Macroeconomics_
     
   Work in Progress
 =====================
