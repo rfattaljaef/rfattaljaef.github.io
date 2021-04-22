@@ -16,27 +16,27 @@ ROBERTO N. FATTAL JAEF is a Senior Economist in the Macroeconomics and Growth te
 
 # Publications
 
-1. Size-Dependent Tax Enforcement and Compliance: Global Evidence and Aggregate Implications, with Pierre Bachas and Anders Jensen,  _Journal of Development Economics , vol. 140, September 2019_ 
+1. Entry Barriers, Idiosyncratic Distortions, and the Firm-Size Distribution, June 2020 _forthcoming at AEJ:Macroeconomics_ 
+[pdf](https://rfattaljaef.github.io/files/Draft_Barriers_Misalloc.pdf)
+
+2. Size-Dependent Tax Enforcement and Compliance: Global Evidence and Aggregate Implications, with Pierre Bachas and Anders Jensen,  _Journal of Development Economics , vol. 140, September 2019_ 
 [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0304387818308447?via%3Dihub)
 
-2. Taxing the Good? Distortions, Productivity, and Misallocation in Sub-Saharan Africa, with Xavier Cirera and Hibret Maemir, _World Bank Economic Review, August 2019_
+3. Taxing the Good? Distortions, Productivity, and Misallocation in Sub-Saharan Africa, with Xavier Cirera and Hibret Maemir, _World Bank Economic Review, August 2019_
 [pdf](https://academic.oup.com/wber/article-abstract/34/1/75/5543189)
 
-3. Entry and Exit, Multi-Product Firms, and Allocative Distortions  _AEJ: Macroeconomics Vol 10 No. 2, April 2018_ 
+4. Entry and Exit, Multi-Product Firms, and Allocative Distortions  _AEJ: Macroeconomics Vol 10 No. 2, April 2018_ 
 [pdf](https://www.dropbox.com/s/n4jidqig6iugkjx/AEJ_published_version.pdf?dl=0)
 
-4. The Anatomy of a Credit Crunch: from Capital to Labor Markets, with Francisco Buera and Yongseok Shin, Review of Economic Dynamics, January 2015
+5. The Anatomy of a Credit Crunch: from Capital to Labor Markets, with Francisco Buera and Yongseok Shin, Review of Economic Dynamics, January 2015
 [pdf](https://pages.wustl.edu/files/pages/imce/yshin/bfs.pdf)
 
-5. Entry, Trade Costs and International Business Cycles with Jose Ignacio Lopez,  Journal of International Economics 94 (2014), 224-238
+6. Entry, Trade Costs and International Business Cycles with Jose Ignacio Lopez,  Journal of International Economics 94 (2014), 224-238
 [pdf](https://www.dropbox.com/s/7avntiqo8igs2ph/JIE_final.pdf?dl=0)
 
 # Under Review
 
-1. Entry Barriers, Idiosyncratic Distortions, and the Firm-Size Distribution, June 2020 _conditionally accepted at AEJ:Macroeconomics_ 
-[pdf](https://rfattaljaef.github.io/files/draft_AEJmacro_R2.pdf)
-
-2. The Dynamics of Development: Innovation and Reallocation, with Francisco Buera, _revise and resubmit AEJ: Macroeconomics_
+1. The Dynamics of Development: Innovation and Reallocation, with Francisco Buera, _revise and resubmit AEJ: Macroeconomics_
 [pdf](https://www.dropbox.com/s/50g7e2ilco1sf98/draft_January_2020.pdf?dl=0)
 
 
