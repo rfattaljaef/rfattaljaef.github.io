@@ -37,7 +37,7 @@ ROBERTO N. FATTAL JAEF is a Senior Economist in the Macroeconomics and Growth te
 # Under Review
 
 1. The Dynamics of Development: Innovation and Reallocation, with Francisco Buera, _revise and resubmit AEJ: Macroeconomics_
-[pdf](https://www.dropbox.com/s/50g7e2ilco1sf98/draft_January_2020.pdf?dl=0)
+[pdf](https://rfattaljaef.github.io/files/draft_Development_Dynamics.pdf)
 
 
 # Working Papers
