@@ -25,8 +25,8 @@ ROBERTO N. FATTAL JAEF is a Senior Economist in the Macroeconomics and Growth te
 # Publications
 
 1. Entry Barriers, Idiosyncratic Distortions, and the Firm-Size Distribution, December 2020 _AEJ:Macroeconomics, Vol. 14, NO 2, April 2022_ 
-[pdf](https://rfattaljaef.github.io/files/Draft_Barriers_Misalloc.pdf).[published article].(https://www.aeaweb.org/articles?id=10.1257/mac.20200234
-).
+[pdf](https://rfattaljaef.github.io/files/Draft_Barriers_Misalloc.pdf) [published article](https://www.aeaweb.org/articles?id=10.1257/mac.20200234
+)
 
 2. Size-Dependent Tax Enforcement and Compliance: Global Evidence and Aggregate Implications, with Pierre Bachas and Anders Jensen,  _Journal of Development Economics , vol. 140, September 2019_ 
 [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0304387818308447?via%3Dihub)
