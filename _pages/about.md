@@ -19,7 +19,7 @@ ROBERTO N. FATTAL JAEF is a Senior Economist in the Macroeconomics and Growth te
 1. The Economic Ripple Effects of Covid-19, with Francisco Buera, Hugo Hopenhayn, Andy Neumeyer, and Yongseok Shin, _revise and resubmit Review of Economic Studies_
  [pdf](https://rfattaljaef.github.io/files/Ripples_April_2021.pdf)
 
-2. The Dynamics of Development: Innovation and Reallocation, with Francisco Buera, _revise and resubmit AEJ: Macroeconomics_
+2. The Dynamics of Development: Innovation and Reallocation, with Francisco Buera, _conditionally accepted  AEJ: Macroeconomics_
 [pdf](https://rfattaljaef.github.io/files/draft_January_2022.pdf)
 
 # Publications
@@ -46,11 +46,13 @@ ROBERTO N. FATTAL JAEF is a Senior Economist in the Macroeconomics and Growth te
 
 # Working Papers
 
+* Deconstructing the Missing Middle: Informality and Growth of Firms in Sub-Saharan Africa, with Kaleb Abreha, Xavier Cirera, Elwyn Davies, and Hibret Maemir
+[pdf](https://rfattaljaef.github.io/files/Missing_middle_project_September2022.pdf)
+
 * The Missing Middle in a Broad Cross-Section of Indian Establishments, with Francisco Buera, Reiko Laski, and Nicholas Tracther, in progress
 
 * Constrained-Efficiency and the Welfare Effects of Misallocation with Hugo Hopenhayn, November 2019
  [pdf](https://www.dropbox.com/s/6yrutojvg68x26z/Constrained_Efficiency_Nov2019.pdf?dl=0)
 
-* The Elusive Missing Middle: The Size Distribution of Firms in Sub-Saharan Africa, Xavier Cirera, Hibret Maemir, and Nicolas Gonne, in progress
 
 
