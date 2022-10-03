@@ -47,7 +47,7 @@ ROBERTO N. FATTAL JAEF is a Senior Economist in the Macroeconomics and Growth te
 # Working Papers
 
 * Deconstructing the Missing Middle: Informality and Growth of Firms in Sub-Saharan Africa, with Kaleb Abreha, Xavier Cirera, Elwyn Davies, and Hibret Maemir
-[pdf](https://rfattaljaef.github.io/files/Missing_middle_project_September2022.pdf)
+[pdf](https://rfattaljaef.github.io/files/Missing_middle_project_October2022.pdf)
 
 * The Missing Middle in a Broad Cross-Section of Indian Establishments, with Francisco Buera, Reiko Laski, and Nicholas Tracther, in progress
 
