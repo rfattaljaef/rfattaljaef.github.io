@@ -47,7 +47,7 @@ ROBERTO N. FATTAL JAEF is a Senior Economist in the Macroeconomics and Growth te
 # Working Papers
 
 * On the Welfare Costs of Premature Deindustrialization, October 2022
-[pdf](https://rfattaljaef.githu.io/files/Premature_Deindustrialization _Oct30_2022.pdf)
+[pdf](https://rfattaljaef.github.io/files/Premature_Deindustrialization _Oct30_2022.pdf)
 
 * Deconstructing the Missing Middle: Informality and Growth of Firms in Sub-Saharan Africa, with Kaleb Abreha, Xavier Cirera, Elwyn Davies, and Hibret Maemir
 [pdf](https://rfattaljaef.github.io/files/Missing_middle_project_October2022.pdf)
