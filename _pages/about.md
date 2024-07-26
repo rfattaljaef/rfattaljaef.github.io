@@ -46,6 +46,9 @@ ROBERTO N. FATTAL JAEF is a Senior Economist in the Macroeconomics and Growth te
 
 # Working Papers
 
+* The Role of Finance (Mis)Allocation on Real (Mis)Allocation, 2024, with Ana Paula Cusolito, Davide Salvatore Mare, and Akshat Singh
+[pdf](https://documents1.worldbank.org/curated/en/099209006202418510/pdf/IDU170cb8cc3159d114ec819a091e6d322d7fb72.pdf)
+
 * On the Welfare Costs of Premature Deindustrialization, October 2022
 [pdf](https://rfattaljaef.github.io/files/Premature_Deindustrialization_Oct30_2022.pdf)
 
