@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-ROBERTO N. FATTAL JAEF is a Senior Economist in the Macroeconomics and Growth team of the World Bank’s Research Department. His research interest cover various areas of macroeconomics, with a special emphasis on economic growth. Current and recent research topics include: 1) understanding the role of market distortions for firm level behavior, entrepreneurship, and long run macroeconomic outcomes; 2) investigating the micro and macro patterns of transition growth paths, 3) studying the role of credit for business cycle. Prior to joining the Bank, he worked at the International Monetary Fund’s Research department (2011-2013). He holds a Ph.D. in Economics from UCLA.
+ROBERTO N. FATTAL JAEF is a Senior Economist in the Macroeconomics and Growth team of the World Bank’s Research Department. His research interests cover various areas of macroeconomics, with a special emphasis on economic growth. Current and recent research topics include: 1) understanding the role of market distortions for firm-level behavior, entrepreneurship, and long-run macroeconomic outcomes; 2) investigating the micro and macro patterns of transition growth paths; 3) studying the role of credit for business cycle. Prior to joining the Bank, he worked at the International Monetary Fund’s Research Department (2011-2013). He holds a Ph.D. in Economics from UCLA.
 
  **Research Interests**  Macroeconomics, International Macroeconomics, Economic Development.
  
@@ -21,7 +21,7 @@ ROBERTO N. FATTAL JAEF is a Senior Economist in the Macroeconomics and Growth te
 
 # Publications
 
-1.2. The Dynamics of Development: Innovation and Reallocation, with Francisco Buera, AEJ: Macroeconomics, Vol. 17, NO. 4, October 2025
+1. The Dynamics of Development: Innovation and Reallocation, with Francisco Buera, AEJ: Macroeconomics, Vol. 17, NO. 4, October 2025
 [pdf](https://rfattaljaef.github.io/files/dynamics_of_development.pdf) [publication](https://www.aeaweb.org/articles?id=10.1257/mac.20200032&from=f)
 
 2. Entry Barriers, Idiosyncratic Distortions, and the Firm-Size Distribution, _AEJ:Macroeconomics, Vol. 14, NO 2, April 2022_ 
@@ -46,8 +46,10 @@ ROBERTO N. FATTAL JAEF is a Senior Economist in the Macroeconomics and Growth te
 
 # Working Papers
 
+* Rank Reversal and the Productivity Losses from Resource Misallocation, 2025, working paper [pdf](https://rfattaljaef.github.io/files/Rank_Reversal.pdf)
+* Informality, Distortions, and the Firm Size Distribution: Evidence from Sub-Saharan Africa, with Kaleb Abreha, Xavier Cirera, Elwyn Davies, and Hibret Maemir [pdf](https://rfattaljaef.github.io/files/Informality__Distortions_SSA_08262025.pdf)
 * The Role of Finance (Mis)Allocation on Real (Mis)Allocation, 2024, with Ana Paula Cusolito, Davide Salvatore Mare, and Akshat Singh
-[](https://rfattaljaef.github.io/files/Finance_Misallocation_10082025.pdf) [WB policy research paper](https://documents1.worldbank.org/curated/en/099209006202418510/pdf/IDU170cb8cc3159d114ec819a091e6d322d7fb72.pdf)
+[pdf](https://rfattaljaef.github.io/files/Finance_Misallocation_10082025.pdf) [WB policy research paper](https://documents1.worldbank.org/curated/en/099209006202418510/pdf/IDU170cb8cc3159d114ec819a091e6d322d7fb72.pdf)
 
 * On the Welfare Costs of Premature Deindustrialization, October 2022
 [pdf](https://rfattaljaef.github.io/files/Premature_Deindustrialization_Oct30_2022.pdf)
