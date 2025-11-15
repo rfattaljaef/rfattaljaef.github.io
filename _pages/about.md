@@ -19,10 +19,10 @@ ROBERTO N. FATTAL JAEF is a Senior Economist in the Macroeconomics and Growth te
 1. The Economic Ripple Effects of Covid-19, with Francisco Buera, Hugo Hopenhayn, Andy Neumeyer, and Yongseok Shin, _accepted Review of Economic Studies_
  [pdf](https://rfattaljaef.github.io/files/main_text.pdf)
 
-2.  The Dynamics of Development: Innovation and Reallocation, with Francisco Buera, AEJ: Macroeconomics, Vol. 17, NO. 4, October 2025
+2.  The Dynamics of Development: Innovation and Reallocation, with Francisco Buera, _AEJ: Macroeconomics, Vol. 17, NO. 4, October 2025
 [pdf](https://rfattaljaef.github.io/files/dynamics_of_development.pdf) [publication](https://www.aeaweb.org/articles?id=10.1257/mac.20200032&from=f)
 
-3. Entry Barriers, Idiosyncratic Distortions, and the Firm-Size Distribution, _AEJ:Macroeconomics, Vol. 14, NO 2, April 2022_ 
+3. Entry Barriers, Idiosyncratic Distortions, and the Firm-Size Distribution, _AEJ: Macroeconomics, Vol. 14, NO 2, April 2022_ 
 [pdf](https://rfattaljaef.github.io/files/Draft_Barriers_Misalloc.pdf) [published-article](https://www.aeaweb.org/articles?id=10.1257/mac.20200234
 )
 
