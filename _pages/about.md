@@ -44,7 +44,7 @@ ROBERTO N. FATTAL JAEF is a Senior Economist in the Macroeconomics and Growth te
 
 # Working Papers
 
-* Rank Reversal and the Productivity Losses from Resource Misallocation, 2025, working paper [pdf](https://rfattaljaef.github.io/files/Rank_Reversal.pdf)
+* Rank Reversal and the Productivity Losses from Resource Misallocation, 2025, working paper [pdf](https://rfattaljaef.github.io/files/main_short.pdf)
 * Informality, Distortions, and the Firm Size Distribution: Evidence from Sub-Saharan Africa, with Kaleb Abreha, Xavier Cirera, Elwyn Davies, and Hibret Maemir [pdf](https://rfattaljaef.github.io/files/Informality__Distortions_SSA_08262025.pdf)
 * The Role of Finance (Mis)Allocation on Real (Mis)Allocation, 2024, with Ana Paula Cusolito, Davide Salvatore Mare, and Akshat Singh
 [pdf](https://rfattaljaef.github.io/files/Finance_Misallocation_10082025.pdf) [WB policy research paper](https://documents1.worldbank.org/curated/en/099209006202418510/pdf/IDU170cb8cc3159d114ec819a091e6d322d7fb72.pdf)
